@@ -1,1 +1,1 @@
-# test_sanity
+First test using Sanity headless CMS
